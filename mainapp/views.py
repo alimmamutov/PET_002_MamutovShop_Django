@@ -8,8 +8,8 @@ def main(request):
     return render(request, 'mainapp/index.html')
 
 
-def products(request):
-    return render(request, 'mainapp/products.html')
+def product(request):
+    return render(request, 'mainapp/product.html')
 
 
 def contact(request):

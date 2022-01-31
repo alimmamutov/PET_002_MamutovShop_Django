@@ -1,0 +1,62 @@
+[
+  {
+    "model": "mainapp.product",
+    "pk": 1,
+    "fields": {
+      "name": "Сумка черная",
+      "image": "product_image/p1.jpg",
+      "description": "Сумка черная женская New age",
+      "price": "6090.00",
+      "quantity": 100,
+      "category": 1
+    }
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 2,
+    "fields": {
+      "name": "Сумка Loly Pop",
+      "image": "product_image/p2.jpg",
+      "description": "Легкая эластичная ткань сирсакер Фактурная ткань.",
+      "price": "2890.00",
+      "quantity": 20,
+      "category": 1
+    }
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 3,
+    "fields": {
+      "name": "Рюкзак модерн",
+      "image": "product_image/p3.jpg",
+      "description": "Легкая эластичная ткань сирсакер Фактурная ткань.",
+      "price": "11000.00",
+      "quantity": 15,
+      "category": 2
+    }
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 4,
+    "fields": {
+      "name": "Рюкзак XD Design Bobby Soft Art",
+      "image": "product_image/p4.jpg",
+      "description": "Легкая эластичная ткань сирсакер Фактурная ткань.",
+      "price": "6990.00",
+      "quantity": 20,
+      "category": 2
+    }
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 5,
+    "fields": {
+      "name": "Рюкзак XD Design Bobby Urban",
+      "image": "product_image/p5.jpg",
+      "description": "Легкая эластичная ткань сирсакер Фактурная ткань.",
+      "price": "11990.00",
+      "quantity": 25,
+      "category": 2
+    }
+  }
+]

@@ -1,5 +1,5 @@
  <ul class="megamenu skyblue">
-                <li class="active grid"><a class="color1" href="index.html">Home</a></li>
+                <li class="active grid"><a class="color1" href="{% url 'index' %}">Home</a></li>
                 <li class="grid"><a class="color2" href="#">new arrivals</a>
                     <div class="megapanel">
                         <div class="row">
@@ -91,4 +91,5 @@
                         </div>
                     </div>
                 </li>
+                <li class="grid"><a class="color1" href="{% url 'products:shop' %}">Shop</a></li>
             </ul>
